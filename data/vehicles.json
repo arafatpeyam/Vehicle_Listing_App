@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Yamaha YZF R15",
+        "type": "Bike",
+        "price": "400000",
+        "image": "https:\/\/th.bing.com\/th\/id\/OIP.8kQG2NwbZ_u1ELleoscGGgAAAA?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "School Bus",
+        "type": "Bus",
+        "price": "4000000",
+        "image": "https:\/\/th.bing.com\/th\/id\/R.84db44a00365eba66a938598c37547a7?rik=uqBL2Y%2bKIRGu6w&riu=http%3a%2f%2fupload.wikimedia.org%2fwikipedia%2fcommons%2f7%2f76%2fICCE_Illinois_School_Bus.jpg&ehk=VgAGm5iOOvGXK9iK7OoiKRvR2bRYTYOHXgujV4XpjZU%3d&risl=&pid=ImgRaw&r=0"
+    },
+    {
+        "name": "Toyota",
+        "type": "Car",
+        "price": "2700000",
+        "image": "https:\/\/th.bing.com\/th\/id\/OIP.tCkLLPYhfSBf9sEs6BCsswHaE7?rs=1&pid=ImgDetMain"
+    },
+    {
+        "name": "Royal Enfield",
+        "type": "Bike",
+        "price": "700000",
+        "image": "https:\/\/i.cdn.newsbytesapp.com\/images\/l72020221108143812.jpeg"
+    }
+]
